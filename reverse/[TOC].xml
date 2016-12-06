@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xar>
+ <toc>
+  <creation-time>2016-06-06T07:47:49</creation-time>
+  <checksum style="sha1">
+   <offset>0</offset>
+   <size>20</size>
+  </checksum>
+  <signature style="RSA">
+   <offset>20</offset>
+   <size>256</size>
+   <KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <X509Data>
+     <X509Certificate>MIIFhzCCBG+gAwIBAgIIQYQ6MiW3qIcwDQYJKoZIhvcNAQELBQAweTEtMCsGA1UEAwwkRGV2
+ZWxvcGVyIElEIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MSYwJAYDVQQLDB1BcHBsZSBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTETMBEGA1UECgwKQXBwbGUgSW5jLjELMAkGA1UEBhMCVVMw
+HhcNMTUwOTE0MDk0ODAwWhcNMjAwOTE0MDk0ODAwWjCBpzEaMBgGCgmSJomT8ixkAQEMCk1L
+N0o3NzI2WDYxRTBDBgNVBAMMPERldmVsb3BlciBJRCBJbnN0YWxsZXI6IFByaW1heCBFbGVj
+dHJvbmljcyBMdGQuIChNSzdKNzcyNlg2KTETMBEGA1UECwwKTUs3Sjc3MjZYNjEgMB4GA1UE
+CgwXUHJpbWF4IEVsZWN0cm9uaWNzIEx0ZC4xCzAJBgNVBAYTAlVTMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA6CFN3qIQGF3uDvhffc1A1dBgMBRVttQQZwB4KwIWQxn1A76K
+uDrv60j1xoZvC4I/3eU2lcnA5ewkGO79/DOedR/QxPDhuGCpPstGV1z8STs1gfxNo1rHLzor
+iznIBZmzuJAWBrbBbw3GgMgZVK0KVYETSccAD7rbIL1OHM3vb5udFL9guOVj6vQmg/TbTosS
+vSLBqvV/Wj6bMuuiFz4sRxaNyjukWjss4bAlhpBefvWT8LWDQ28smmlNT59wcnOqXPlFLGry
+vwgLkd8dc5IqOfMf3dk4xWWx7kgzmfoycGrPaQhMCjhFKQtrpNagwBy7W41qsiCYpBwvwAoa
+4in+HwIDAQABo4IB4jCCAd4wPgYIKwYBBQUHAQEEMjAwMC4GCCsGAQUFBzABhiJodHRwOi8v
+b2NzcC5hcHBsZS5jb20vb2NzcC1kZXZpZDAyMB0GA1UdDgQWBBSD+0oCCJD+B2FXaeDFTevn
+6xcddTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFFcX7aLP3HyYoRDg/L6HLSzy4xdUMIIB
+DgYDVR0gBIIBBTCCAQEwgf4GCSqGSIb3Y2QFATCB8DAoBggrBgEFBQcCARYcaHR0cDovL3d3
+dy5hcHBsZS5jb20vYXBwbGVjYTCBwwYIKwYBBQUHAgIwgbYMgbNSZWxpYW5jZSBvbiB0aGlz
+IGNlcnRpZmljYXRlIGJ5IGFueSBwYXJ0eSBhc3N1bWVzIGFjY2VwdGFuY2Ugb2YgdGhlIHRo
+ZW4gYXBwbGljYWJsZSBzdGFuZGFyZCB0ZXJtcyBhbmQgY29uZGl0aW9ucyBvZiB1c2UsIGNl
+cnRpZmljYXRlIHBvbGljeSBhbmQgY2VydGlmaWNhdGlvbiBwcmFjdGljZSBzdGF0ZW1lbnRz
+LjAOBgNVHQ8BAf8EBAMCB4AwFwYDVR0lAQH/BA0wCwYJKoZIhvdjZAQNMBMGCiqGSIb3Y2QG
+AQ4BAf8EAgUAMA0GCSqGSIb3DQEBCwUAA4IBAQBP2DP9iYmbhUphKZI6pa1SFEmsYRRGDYR9
+NFr9LJpInXvFElNntBo6VcA5yUTQIZVFNd2RFfefE6jD7nTijhMpKp3G8Tt7yYYZe1PfW4xj
+kdWWJdIpkfw4tTFD3Wu/u+UMIhJd+HwbfiQSzJX4uvTauFLN9QhBJW3DAmqB+U7nuyBcRfSx
+HbPwEOuCrZAYwz4n0f/cUFt8azXHt/8CulDKSm/UJOCOTnPdghbHlJEWonUTmom5IQi3xNBA
+nqUglzxFeCq5E+z3LsnXT+t0YGP+a46emQGA1S7jyVyFkAOZc6Om5cmQc8XVePGmNOpRMqAf
+n7eVPVlbwjyBzyAev4R9</X509Certificate>
+    </X509Data>
+   </KeyInfo>
+  </signature>
+  <file id="5">
+   <FinderCreateTime>
+    <nanoseconds>140733193388032</nanoseconds>
+    <time>1970-01-01T00:00:00</time>
+   </FinderCreateTime>
+   <ctime>2016-06-06T07:47:49Z</ctime>
+   <mtime>2016-06-06T07:47:48Z</mtime>
+   <atime>2016-06-06T07:47:49Z</atime>
+   <group>wheel</group>
+   <gid>0</gid>
+   <user>root</user>
+   <uid>0</uid>
+   <mode>0755</mode>
+   <deviceno>16777220</deviceno>
+   <inode>13065867</inode>
+   <type>directory</type>
+   <name>RICOH_ZOLO5PEXP.pkg</name>
+   <file id="6">
+    <data>
+     <length>632</length>
+     <offset>1405</offset>
+     <size>35467</size>
+     <encoding style="application/x-gzip"/>
+     <extracted-checksum style="sha1">5df3452d731868cd4908e9fca33c9c2b6bd28d04</extracted-checksum>
+     <archived-checksum style="sha1">23a403aa12f3f57f1ca0eafe35bff569a5ab44c0</archived-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>300647710720</nanoseconds>
+     <time>1970-01-01T00:00:00</time>
+    </FinderCreateTime>
+    <ctime>2016-06-06T07:47:49Z</ctime>
+    <mtime>2016-06-06T07:47:48Z</mtime>
+    <atime>2016-06-06T07:47:48Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>root</user>
+    <uid>0</uid>
+    <mode>0644</mode>
+    <deviceno>16777220</deviceno>
+    <inode>13065877</inode>
+    <type>file</type>
+    <name>Bom</name>
+   </file>
+   <file id="7">
+    <data>
+     <length>164</length>
+     <offset>2060</offset>
+     <size>206</size>
+     <encoding style="application/x-gzip"/>
+     <extracted-checksum style="sha1">23ee3c69006f549ff16ff67ab40c884ba5f63c6c</extracted-checksum>
+     <archived-checksum style="sha1">dd79850cf7390836e589d358e8daa2646ba2110e</archived-checksum>
+    </data>
+    <ea id="0">
+     <length>23</length>
+     <offset>2037</offset>
+     <size>15</size>
+     <encoding style="application/x-gzip"/>
+     <extracted-checksum style="sha1">34bb265cb6732969f269ccc90fea5d662e9e0ea5</extracted-checksum>
+     <archived-checksum style="sha1">d433dacc26ca2c81f30c25e807dc170e6680aad9</archived-checksum>
+     <name>com.apple.TextEncoding</name>
+    </ea>
+    <FinderCreateTime>
+     <nanoseconds>300647710720</nanoseconds>
+     <time>1970-01-01T00:00:00</time>
+    </FinderCreateTime>
+    <ctime>2016-06-06T07:47:49Z</ctime>
+    <mtime>2016-06-06T07:47:48Z</mtime>
+    <atime>2016-06-06T07:47:48Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>root</user>
+    <uid>0</uid>
+    <mode>0644</mode>
+    <deviceno>16777220</deviceno>
+    <inode>13065887</inode>
+    <type>file</type>
+    <name>PackageInfo</name>
+   </file>
+   <file id="8">
+    <data>
+     <length>74067</length>
+     <encoding style="application/octet-stream"/>
+     <offset>2224</offset>
+     <size>74067</size>
+     <extracted-checksum style="sha1">4bbaabebd8506a233958b92a0188b4d47be88271</extracted-checksum>
+     <archived-checksum style="sha1">4bbaabebd8506a233958b92a0188b4d47be88271</archived-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>300647710720</nanoseconds>
+     <time>1970-01-01T00:00:00</time>
+    </FinderCreateTime>
+    <ctime>2016-06-06T07:47:49Z</ctime>
+    <mtime>2016-06-06T07:47:48Z</mtime>
+    <atime>2016-06-06T07:47:48Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>root</user>
+    <uid>0</uid>
+    <mode>0644</mode>
+    <deviceno>16777220</deviceno>
+    <inode>13065878</inode>
+    <type>file</type>
+    <name>Payload</name>
+   </file>
+   <file id="9">
+    <data>
+     <length>78</length>
+     <encoding style="application/octet-stream"/>
+     <offset>76291</offset>
+     <size>78</size>
+     <extracted-checksum style="sha1">97d06aa669ae5ef4207d1921aeb57aef7d6c5b33</extracted-checksum>
+     <archived-checksum style="sha1">97d06aa669ae5ef4207d1921aeb57aef7d6c5b33</archived-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>300647710720</nanoseconds>
+     <time>1970-01-01T00:00:00</time>
+    </FinderCreateTime>
+    <ctime>2016-06-06T07:47:49Z</ctime>
+    <mtime>2016-06-06T07:47:48Z</mtime>
+    <atime>2016-06-06T07:47:48Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>root</user>
+    <uid>0</uid>
+    <mode>0644</mode>
+    <deviceno>16777220</deviceno>
+    <inode>13065886</inode>
+    <type>file</type>
+    <name>Scripts</name>
+   </file>
+  </file>
+  <file id="2">
+   <FinderCreateTime>
+    <nanoseconds>140733193388032</nanoseconds>
+    <time>1970-01-01T00:00:00</time>
+   </FinderCreateTime>
+   <ctime>2016-06-06T07:47:49Z</ctime>
+   <mtime>2016-06-06T07:47:49Z</mtime>
+   <atime>2016-06-06T07:47:49Z</atime>
+   <group>wheel</group>
+   <gid>0</gid>
+   <user>root</user>
+   <uid>0</uid>
+   <mode>0755</mode>
+   <deviceno>16777220</deviceno>
+   <inode>13065888</inode>
+   <type>directory</type>
+   <name>Resources</name>
+   <file id="3">
+    <FinderCreateTime>
+     <nanoseconds>0</nanoseconds>
+     <time>1970-01-01T00:00:00</time>
+    </FinderCreateTime>
+    <ctime>2016-06-06T07:47:49Z</ctime>
+    <mtime>2016-06-06T07:47:49Z</mtime>
+    <atime>2016-06-06T07:47:49Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>root</user>
+    <uid>0</uid>
+    <mode>0755</mode>
+    <deviceno>16777220</deviceno>
+    <inode>13065889</inode>
+    <type>directory</type>
+    <name>en.lproj</name>
+    <file id="4">
+     <data>
+      <length>84</length>
+      <offset>1321</offset>
+      <size>102</size>
+      <encoding style="application/x-gzip"/>
+      <extracted-checksum style="sha1">1c9c7560f6edd474abe5072c0b172382f3795342</extracted-checksum>
+      <archived-checksum style="sha1">eaa621eb47e5f022b2630f42528c3875d70257bd</archived-checksum>
+     </data>
+     <ea id="0">
+      <length>18</length>
+      <offset>1303</offset>
+      <size>10</size>
+      <encoding style="application/x-gzip"/>
+      <extracted-checksum style="sha1">f90002de5abf00711305fda6af435b1b8eab1464</extracted-checksum>
+      <archived-checksum style="sha1">906991166235a772b7244c9af445cf2084dca384</archived-checksum>
+      <name>com.apple.TextEncoding</name>
+     </ea>
+     <FinderCreateTime>
+      <nanoseconds>300647710720</nanoseconds>
+      <time>1970-01-01T00:00:00</time>
+     </FinderCreateTime>
+     <ctime>2016-06-06T07:47:49Z</ctime>
+     <mtime>2016-06-06T07:47:49Z</mtime>
+     <atime>2016-06-06T07:47:49Z</atime>
+     <group>wheel</group>
+     <gid>0</gid>
+     <user>root</user>
+     <uid>0</uid>
+     <mode>0644</mode>
+     <deviceno>16777220</deviceno>
+     <inode>13065890</inode>
+     <type>file</type>
+     <name>Localizable.strings</name>
+    </file>
+   </file>
+  </file>
+  <file id="1">
+   <data>
+    <length>1027</length>
+    <offset>276</offset>
+    <size>3233</size>
+    <encoding style="application/x-gzip"/>
+    <extracted-checksum style="sha1">7cdee828fce9c423551808909fda6d51119fcc5e</extracted-checksum>
+    <archived-checksum style="sha1">964a9c51a5aa329717d4d6dd76cc63c308f98fc1</archived-checksum>
+   </data>
+   <FinderCreateTime>
+    <nanoseconds>140733193388032</nanoseconds>
+    <time>1970-01-01T00:00:00</time>
+   </FinderCreateTime>
+   <ctime>2016-06-06T07:47:49Z</ctime>
+   <mtime>2016-06-06T07:47:49Z</mtime>
+   <atime>2016-06-06T07:47:49Z</atime>
+   <group>wheel</group>
+   <gid>0</gid>
+   <user>root</user>
+   <uid>0</uid>
+   <mode>0644</mode>
+   <deviceno>16777220</deviceno>
+   <inode>13065892</inode>
+   <type>file</type>
+   <name>Distribution</name>
+  </file>
+ </toc>
+</xar>

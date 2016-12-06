@@ -1,0 +1,19 @@
+Package: openprinting-ppds-postscript-ricoh
+Version: 20160606-1lsb3.2
+Architecture: all
+Maintainer: Till Kamppeter <till@openprinting2>
+Installed-Size: 3856
+Section: alien
+Priority: extra
+Description: PPD files for Ricoh's PostScript printers, supplied by Ricoh
+ .
+ PPD files for Ricoh's PostScript printers, supplied by Ricoh
+ .
+ This package is automatically created from the PPD files which are
+ assigned to the "Postscript-Ricoh" driver entry in the OpenPrinting
+ database. The PPDs can also be downloaded as single files, but with
+ the packaged file all advantages of the package managers of the
+ distros can be made use of: Clean uninstallation, automatic updates,
+ ...
+ .
+ (Converted from a rpm package by alien version 8.86.)
